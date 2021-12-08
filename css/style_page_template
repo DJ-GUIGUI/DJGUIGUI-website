@@ -1,0 +1,29 @@
+body {
+  backgound-color: #777;
+}
+
+header img{
+	border-radius: 50%;
+}
+
+header img, h1{
+	display: inline-block;
+	vertical-align: top;
+}
+
+nav.menu-nav ul li.btn {
+	list-style-type: none;
+	display: inline-block;
+}
+
+nav.menu-nav ul li.btn a{
+	color: white;
+	background-color: red;
+	text-decoration: none;
+	padding: 10px;
+}
+nav.menu-nav ul li.btn:hover a{
+	color: red;
+	background-color: white;
+	transition: 0.3s all;
+}
