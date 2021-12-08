@@ -7,7 +7,7 @@
 <body>
 	<header>
 		<!-- Menu de Navigation -->
-		<?php include 'menunavigation.php'; ?>
+		<?php include 'page_template.php'; ?>
 	</header>
 </body>
 </html>
