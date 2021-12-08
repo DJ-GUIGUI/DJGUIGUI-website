@@ -1,4 +1,4 @@
-<?php require('index.html')?>
+<?php require('../index.html')?>
 <!DOCTYPE html>
 <html>
 <head>
