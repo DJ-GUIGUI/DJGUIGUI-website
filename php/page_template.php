@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
-	<head></head>
+	<head>
+		<link rel="stylesheet" type="text/css" href="../css/styles_template.css">
+	</head>
 	<body>
 		<!-- Haut de Page -->
 		<header style="text-align: center;">
