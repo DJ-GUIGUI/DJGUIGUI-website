@@ -19,17 +19,17 @@
 		<nav class="menu-nav" style="text-align: center;">
 			<ul>
 				<li class="btn">
-					<a href="index.html">
+					<a href="../index.html">
 						Accueil
 					</a>
 				</li>
 				<li class="btn">
-					<a href="HTML/a propos.html">
+					<a href="../HTML/a propos.html">
 						A propos
 					</a>
 				</li>
 				<li class="btn">
-					<a href="HTML/contact.html">
+					<a href="../HTML/contact.html">
 						Contact
 					</a>
 				</li>
